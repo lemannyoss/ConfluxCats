@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15c4e002.css",
+    "main.js": "/static/js/main.d4557c21.js",
+    "static/media/cathideout.gif": "/static/media/cathideout.9c74eec2abcdff25bf8b.gif",
+    "index.html": "/index.html",
+    "main.15c4e002.css.map": "/static/css/main.15c4e002.css.map",
+    "main.d4557c21.js.map": "/static/js/main.d4557c21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15c4e002.css",
+    "static/js/main.d4557c21.js"
+  ]
+}
